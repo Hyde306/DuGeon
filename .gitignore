@@ -94,3 +94,6 @@ Thumbs.db
 # Backup files
 *.bak
 *.tmp
+
+# Unreal Editor backup files
+Backup/
