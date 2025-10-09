@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Personal_production.gen.cpp.obj": [
+			"MyGameModeBase.gen.cpp.obj",
+			"Personal_production.init.gen.cpp.obj",
+			"ThirdPersonCharacter.gen.cpp.obj"
+		]
+	}
+}
