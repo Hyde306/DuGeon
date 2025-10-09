@@ -1143,3 +1143,147 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.09-02.39.12:097][ 12]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 6.872066
 [2025.10.09-02.39.12:098][ 12]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -227189215
 [2025.10.09-02.39.12:098][ 12]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6.872066, Update Interval: 347.669312
+[2025.10.09-02.39.26:137][ 60]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.10.09-02.39.26:192][ 63]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.10.09-02.39.26:354][ 67]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.10.09-02.39.29:919][145]LogDebuggerCommands: Repeating last play command: 選択ビューポート
+[2025.10.09-02.39.29:924][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.09-02.39.29:929][145]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.10.09-02.39.29:929][145]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.10.09-02.39.29:929][145]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Dungeon
+[2025.10.09-02.39.29:932][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002646s)
+[2025.10.09-02.39.29:932][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeon.Dungeon to /Game/UEDPIE_0_Dungeon.Dungeon (0.002700s)
+[2025.10.09-02.39.29:982][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.10.09-02.39.29:983][145]LogChaosDD: Creating Chaos Debug Draw Scene for world Dungeon
+[2025.10.09-02.39.29:985][145]LogPlayLevel: PIE: World Init took: (0.001939s)
+[2025.10.09-02.39.29:986][145]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.10.09-02.39.29:986][145]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.09-02.39.29:986][145]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.09-02.39.29:986][145]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.09-02.39.29:986][145]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.09-02.39.29:986][145]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.09-02.39.29:986][145]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.09-02.39.29:986][145]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.09-02.39.29:986][145]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.09-02.39.29:986][145]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.09-02.39.29:986][145]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.09-02.39.29:986][145]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.09-02.39.29:988][145]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.09-02.39.29:998][145]LogAudioMixer: Display: Using Audio Hardware Device LCD-MF224ED (NVIDIA High Definition Audio)
+[2025.10.09-02.39.29:998][145]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.09-02.39.29:998][145]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.09-02.39.29:999][145]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.09-02.39.29:999][145]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.10.09-02.39.29:999][145]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.10.09-02.39.30:002][145]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.10.09-02.39.30:002][145]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.10.09-02.39.30:002][145]LogInit: FAudioDevice initialized with ID 2.
+[2025.10.09-02.39.30:002][145]LogAudio: Display: Audio Device (ID: 2) registered with world 'Dungeon'.
+[2025.10.09-02.39.30:002][145]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.10.09-02.39.30:007][145]LogLoad: Game class is 'MyGameModeBase'
+[2025.10.09-02.39.30:009][145]LogWorld: Bringing World /Game/UEDPIE_0_Dungeon.Dungeon up for play (max tick rate 60) at 2025.10.09-11.39.30
+[2025.10.09-02.39.30:009][145]LogWorld: Bringing up level for play took: 0.001657
+[2025.10.09-02.39.30:012][145]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2025.10.09-02.39.30:015][145]PIE: サーバーにログインしました
+[2025.10.09-02.39.30:018][145]PIE: PIE合計開始時間 0.094 秒。
+[2025.10.09-02.39.34:678][353]LogWindowsTextInputMethodSystem: Activated input method: 日本語 (日本) - Microsoft IME (TSF IME).
+[2025.10.09-02.39.35:757][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.09-02.39.35:758][417]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Dungeon
+[2025.10.09-02.39.35:758][417]LogWorld: UWorld::CleanupWorld for Dungeon, bSessionEnded=true, bCleanupResources=true
+[2025.10.09-02.39.35:758][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.09-02.39.35:759][417]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.09-02.39.35:761][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.09-02.39.35:777][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.09-02.39.35:777][417]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.10.09-02.39.35:777][417]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2025.10.09-02.39.35:780][417]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2025.10.09-02.39.35:786][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.10.09-02.39.35:868][422]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2025.10.09-02.39.37:896][538]LogStreaming: Display: FlushAsyncLoading(330): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.09-02.39.41:216][717]LogStreaming: Display: FlushAsyncLoading(331): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.09-02.39.41:498][718]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2025.10.09-02.39.45:251][940]LogInteractiveToolsContext: Display: このツールでは新しい形状を作成できます。シーン内でクリックしてメッシュの初期配置を選択します
+[2025.10.09-02.39.53:528][383]LogInteractiveToolsContext: Display: このツールでは新しい形状を作成できます。シーン内でクリックしてメッシュの初期配置を選択します
+[2025.10.09-02.39.54:392][433]LogInteractiveToolsContext: Display: このツールでは新しい形状を作成できます。シーン内でクリックしてメッシュの初期配置を選択します
+[2025.10.09-02.39.54:673][450]LogInteractiveToolsContext: Display: [詳細] パネルで形状設定を変更するか、ギズモを使用して配置を変更してから、決定します
+[2025.10.09-02.39.56:007][516]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.10.09-02.39.56:140][520]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.10.09-02.39.58:928][682]LogDebuggerCommands: Repeating last play command: 選択ビューポート
+[2025.10.09-02.39.58:952][682]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_GENERATED/GA2A/Capsule_D08DA097.Capsule_D08DA097
+[2025.10.09-02.39.58:952][682]LogStaticMesh: Display: スタティックメッシュをビルド中 Capsule_D08DA097 (推定必須メモリ：0.755558 MB)...
+[2025.10.09-02.39.58:953][682]LogActorFactory: Actor Factory spawned StaticMesh /Game/_GENERATED/GA2A/Capsule_D08DA097.Capsule_D08DA097 as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_1
+[2025.10.09-02.39.58:956][682]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/GA2A/Capsule_D08DA097.Capsule_D08DA097
+[2025.10.09-02.39.59:317][682]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.09-02.39.59:317][682]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Dungeon
+[2025.10.09-02.39.59:320][682]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003477s)
+[2025.10.09-02.39.59:320][682]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeon.Dungeon to /Game/UEDPIE_0_Dungeon.Dungeon (0.003528s)
+[2025.10.09-02.39.59:386][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.10.09-02.39.59:388][682]LogChaosDD: Creating Chaos Debug Draw Scene for world Dungeon
+[2025.10.09-02.39.59:390][682]LogPlayLevel: PIE: World Init took: (0.001711s)
+[2025.10.09-02.39.59:390][682]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.10.09-02.39.59:390][682]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.09-02.39.59:391][682]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.09-02.39.59:391][682]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.09-02.39.59:391][682]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.09-02.39.59:391][682]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.09-02.39.59:391][682]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.09-02.39.59:391][682]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.09-02.39.59:391][682]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.09-02.39.59:391][682]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.09-02.39.59:391][682]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.09-02.39.59:391][682]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.09-02.39.59:393][682]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.09-02.39.59:403][682]LogAudioMixer: Display: Using Audio Hardware Device LCD-MF224ED (NVIDIA High Definition Audio)
+[2025.10.09-02.39.59:403][682]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.09-02.39.59:403][682]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.09-02.39.59:403][682]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.09-02.39.59:404][682]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.10.09-02.39.59:404][682]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.10.09-02.39.59:407][682]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.10.09-02.39.59:407][682]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.10.09-02.39.59:408][682]LogInit: FAudioDevice initialized with ID 3.
+[2025.10.09-02.39.59:408][682]LogAudio: Display: Audio Device (ID: 3) registered with world 'Dungeon'.
+[2025.10.09-02.39.59:408][682]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.10.09-02.39.59:412][682]LogLoad: Game class is 'MyGameModeBase'
+[2025.10.09-02.39.59:413][682]LogWorld: Bringing World /Game/UEDPIE_0_Dungeon.Dungeon up for play (max tick rate 60) at 2025.10.09-11.39.59
+[2025.10.09-02.39.59:414][682]LogWorld: Bringing up level for play took: 0.001670
+[2025.10.09-02.39.59:417][682]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2025.10.09-02.39.59:418][682]PIE: サーバーにログインしました
+[2025.10.09-02.39.59:421][682]PIE: PIE合計開始時間 0.49 秒。
+[2025.10.09-02.39.59:443][683]LogStreaming: Display: FlushAsyncLoading(342): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.09-02.40.03:036][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.09-02.40.03:036][835]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Dungeon
+[2025.10.09-02.40.03:037][835]LogWorld: UWorld::CleanupWorld for Dungeon, bSessionEnded=true, bCleanupResources=true
+[2025.10.09-02.40.03:037][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.09-02.40.03:038][835]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.09-02.40.03:040][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.09-02.40.03:056][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.09-02.40.03:056][835]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.10.09-02.40.03:056][835]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2025.10.09-02.40.03:058][835]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2025.10.09-02.40.03:066][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.10.09-02.40.03:117][836]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2025.10.09-02.40.04:007][888]LogInteractiveToolsContext: Display: このツールでは新しい形状を作成できます。シーン内でクリックしてメッシュの初期配置を選択します
+[2025.10.09-02.40.04:008][888]LogInteractiveToolsContext: Display: このツールでは新しい形状を作成できます。シーン内でクリックしてメッシュの初期配置を選択します
+[2025.10.09-02.40.06:996][ 65]LogInteractiveToolsContext: Display: [詳細] パネルで形状設定を変更するか、ギズモを使用して配置を変更してから、決定します
+[2025.10.09-02.40.10:123][251]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.09-02.40.10:224][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeon" FILE="../../../../../../Users/GA2A/Desktop/UE_Game/Personal_production/Content/Dungeon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.09-02.40.10:226][251]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_GENERATED/GA2A/Box_390B63B1.Box_390B63B1
+[2025.10.09-02.40.10:226][251]LogStaticMesh: Display: スタティックメッシュをビルド中 Box_390B63B1 (推定必須メモリ：0.027864 MB)...
+[2025.10.09-02.40.10:227][251]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/GA2A/Box_390B63B1.Box_390B63B1
+[2025.10.09-02.40.10:227][251]LogActorFactory: Actor Factory spawned StaticMesh /Game/_GENERATED/GA2A/Box_390B63B1.Box_390B63B1 as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_2
+[2025.10.09-02.40.10:307][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.10.09-02.40.10:331][251]LogSavePackage: Moving output files for package: /Game/Dungeon
+[2025.10.09-02.40.10:332][251]LogSavePackage: Moving '../../../../../../Users/GA2A/Desktop/UE_Game/Personal_production/Saved/Dungeon072CA1B04ACA99CBACFFA3AA01C55441.tmp' to '../../../../../../Users/GA2A/Desktop/UE_Game/Personal_production/Content/Dungeon.umap'
+[2025.10.09-02.40.10:337][251]LogFileHelpers: Saving map 'Dungeon' took 0.114
+[2025.10.09-02.40.10:348][251]LogFileHelpers: InternalPromptForCheckoutAndSave took 225.125 ms
+[2025.10.09-02.40.10:462][251]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.09-02.40.10:462][251]LogContentValidation: Enabled validators:
+[2025.10.09-02.40.10:462][251]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.09-02.40.10:462][251]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.09-02.40.10:462][251]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.09-02.40.10:462][251]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.09-02.40.10:462][251]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.09-02.40.10:462][251]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.09-02.40.10:463][251]AssetCheck: /Game/Dungeon アセットを検証しています
+[2025.10.09-02.40.10:508][251]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/GA2A/Desktop/UE_Game/Personal_production/Saved/SourceControl/UncontrolledChangelists.json
